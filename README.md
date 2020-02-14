@@ -1,1 +1,1 @@
-# Disserta-o---previs-o-de-coeficiente-de-atrito
+# Dissertação - previsão de coeficiente de atrito
