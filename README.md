@@ -9,7 +9,7 @@ Os códigos estão salvos em formato Jupyter Notebook, os quais podem ser utiliz
 As estimativas realizadas pela Rede Neural Artificial dizem respeito a coeficiente de atrito mensurado por equipamento GripTester a 65 km/h a 3 m do eixo da pista de pouso e decolagem do Aeroporto Internacional de Fortaleza.
 
 
-Explicação sobre os arquivos:
+Explicação sobre os arquivos:<br>
 Dados.csv: arquivo com dados de 18 relatórios utilizados para treinar e testar o Modelo M1;
 
 Multi Layer Perceptron Regressor - Testando arquiteturas de redes (Modelo M1).ipynb: arquivo em formato Jupyter Notebook para treinar e testar o Modelo M1;
