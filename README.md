@@ -24,6 +24,8 @@ Explicação sobre os arquivos:<br>
 
 **Modelo M2.ipynb**: arquivo em formato Jupyter Notebook com a arquitetura do Modelo M2 já determinada;
 
+**MODELO_M2.xlsx**: arquivo em formato Excel com o Modelo M2;
+
 **coeficientes_entrada_1_cam_oculta.txt**: matriz com os pesos sinápticos da camada de entrada para primeira camada oculta;
 
 **coeficientes_1_cam_oculta_2_cam_oculta.txt**: matriz com os pesos sinápticos da primeira camada oculta para a segunda camada oculta;
