@@ -1,7 +1,7 @@
 # Dissertação - previsão de coeficiente de atrito
 
 
-Os arquivos presente nessa página foram utilizados para o desenvolvimento da Dissertação **"PREVISÃO DO COEFICIENTE DE ATRITO EM PISTA DE POUSO E DECOLAGEM UTILIZANDO REDES NEURAIS ARTIFICIAIS"**.
+Os arquivos presentes nessa página foram utilizados para o desenvolvimento da Dissertação **"PREVISÃO DO COEFICIENTE DE ATRITO EM PISTA DE POUSO E DECOLAGEM UTILIZANDO REDES NEURAIS ARTIFICIAIS"**. Os modelos desenvolvidos tratam-se de pesquisas acadêmicas e podem conter erros. O autor não se responsabiliza pela seu uso.
 
 
 Os códigos estão salvos em formato Jupyter Notebook, os quais podem ser utilizados baixando o Anaconda por meio do endereço eletrônico: https://www.anaconda.com/products/individual
