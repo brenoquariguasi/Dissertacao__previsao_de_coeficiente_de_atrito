@@ -10,7 +10,11 @@ As estimativas realizadas pela Rede Neural Artificial dizem respeito a coeficien
 
 
 Explicação sobre os arquivos:<br>
-**Dados.csv**: arquivo com dados de 18 relatórios utilizados para treinar e testar o Modelo M1;
+**BD 1.csv**: arquivo com dados de 12 relatórios utilizados para treinar e testar o Modelo M0;
+
+**Multi Layer Perceptron Regressor - Testando arquiteturas de redes (Modelo M0).ipynb**: arquivo em formato Jupyter Notebook para treinar e testar o Modelo M0;
+
+**BD 2.csv**: arquivo com dados de 18 relatórios utilizados para treinar e testar o Modelo M1;
 
 **Multi Layer Perceptron Regressor - Testando arquiteturas de redes (Modelo M1).ipynb**: arquivo em formato Jupyter Notebook para treinar e testar o Modelo M1;
 
@@ -20,7 +24,7 @@ Explicação sobre os arquivos:<br>
 
 **Multi Layer Perceptron Regressor - Testando arquiteturas de redes (Modelo M2).ipynb**: arquivo em formato Jupyter Notebook para treinar e testar o Modelo M2;
 
-**Todos.csv**: arquivo com dados de 19 relatórios utilizados para treinar e testar o Modelo M2 (Dados.csv + Validacao.csv);
+**BD 3.csv**: arquivo com dados de 19 relatórios utilizados para treinar e testar o Modelo M2 (Dados.csv + Validacao.csv);
 
 **Modelo M2.ipynb**: arquivo em formato Jupyter Notebook com a arquitetura do Modelo M2 já determinada;
 
