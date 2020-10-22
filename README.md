@@ -24,7 +24,7 @@ Explicação sobre os arquivos:<br>
 
 **Multi Layer Perceptron Regressor - Testando arquiteturas de redes (Modelo M2).ipynb**: arquivo em formato Jupyter Notebook para treinar e testar o Modelo M2;
 
-**BD 3.csv**: arquivo com dados de 19 relatórios utilizados para treinar e testar o Modelo M2 (Dados.csv + Validacao.csv);
+**BD 3.csv**: arquivo com dados de 19 relatórios utilizados para treinar e testar o Modelo M2 (BD 2.csv + Validacao.csv);
 
 **Modelo M2.ipynb**: arquivo em formato Jupyter Notebook com a arquitetura do Modelo M2 já determinada;
 
